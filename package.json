@@ -6,8 +6,10 @@
     "type": "git",
     "url": "https://github.com/cointhink/nodejs.git"
   },
+  "bundledDependencies": [
+    "request"
+  ],  
   "dependencies" : {
-    "request"   :  "2.x.x"
   },
   "license": "MIT",
   "engines": {
