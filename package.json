@@ -1,6 +1,6 @@
 {
   "name":"cointhink",
-  "version":"0.2.3",
+  "version":"0.2.4",
   "main": "./lib/cointhink",
   "repository": {
     "type": "git",
